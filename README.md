@@ -27,3 +27,15 @@ located.
 
 Note that this program is quite demanding to run, especially for songs of more
 than a few minutes long.
+
+## Cover Classification
+To create a batch of covers and apply cover song classification on them, open
+```classify_covers.py``` and set the paths and filenames to appropriate values.
+When this is done, run:
+```bash
+python3 classify_covers.py
+```
+This script reads from a file which songs to turn into covers, and after each
+translation is complete it classifies if the output is indeed a cover or not of
+the original song. This can be seen as an objective metric of the quality of the
+created cover.
