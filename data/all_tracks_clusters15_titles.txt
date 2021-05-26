@@ -1,0 +1,29 @@
+ Body And Soul,0
+ The Way You Look Tonight,1
+ Silent Night,2
+ Summertime,3
+ Over The Rainbow,4
+ Smile,5
+ My Way,6
+ Sunny,7
+ Unchained Melody,8
+ Will You Love Me Tomorrow (LP Version),9
+ Stand By Me (Album Version),10
+ St. Louis Blues (Album Version),11
+ I'll Be Home For Christmas (Album Version),12
+ White Christmas (LP Version),13
+ People Get Ready (Album Version),14
+ Santa Claus Is Coming To Town,15
+ Louie Louie,16
+ The Christmas Song (Chestnuts Roasting On An Open Fire),17
+ Save the Last Dance for Me,18
+ All The Things You Are (Album Version),19
+ My Funny Valentine,20
+ Light My Fire,21
+ Amazing Grace,22
+ Fever,23
+ What A Wonderful World,24
+ Georgia On My Mind,25
+ O Holy Night,26
+ You've Got A Friend,27
+ Have Yourself A Merry Little Christmas,28
