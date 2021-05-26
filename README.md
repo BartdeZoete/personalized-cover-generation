@@ -41,6 +41,6 @@ the original song. This can be seen as an objective metric of the quality of the
 created cover. The cover classification is a binary task,  outputting whether the
 generated song is a cover of the intended song or not. This is currently designed
 to work with tracks found the Million Song Dataset,specifically tracks with 
-greater than 15 covers available. A .txt file contains all the available songs 
-(>15 covers) and the cluster number they belong to. You will need the cluster 
-number for the cover song classification. 
+greater than 15 covers available. A all_tracks_clusters15_titles.txt.txt file 
+contains all the available songs (>15 covers) and the cluster number they belong to.
+You will need the cluster number for the cover song classification. 
