@@ -17,8 +17,13 @@ pip3 install tables
 
 When creating covers, [Audacity](https://www.audacityteam.org/) is required. Before creating your first cover, set ```mod-script-pipe``` to ```Enabled``` under Edit->Preferences->Modules. This setting needs to be changed just once and is active after re-opening Audacity. Make sure to keep Audacity open at any time when creating covers.
 
-To create a cover for a single song, open the file ```process_single_song.py``` and change the paths and filenames at the top of the file to the appropriate values. Then run the following to create the cover:
+## Cover Song Creation
+To create a cover for a single song, open the file ```process_single_song.py``` and **change the paths and filenames** at the top of the file to the appropriate values. Then run the following to create the cover:
 ```bash
 python3 process_single_song.py
 ```
-Note that this program is quite demanding to run, especially for longer songs.
+The cover will be stored in the same directory as where the original file is
+located.
+
+Note that this program is quite demanding to run, especially for songs of more
+than a few minutes long.
