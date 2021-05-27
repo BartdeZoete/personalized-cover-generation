@@ -7,12 +7,14 @@ songs.
 ## Getting Started
 Several packages have to be installed to succesfully to run the code. The list below might not be complete but it should cover most of the work and worked with all our tested standard setups:
 ```bash
+#for song creation
 pip3 install tensorflow
 pip3 install crepe
 pip3 install ddsp==1.0.1
 pip3 install librosa
 pip3 install demucs
 pip3 install tables
+#for genre classification
 pip3 install disarray
 pip3 install fastai==1.0.61
 pip3 install pywaffle
@@ -40,7 +42,7 @@ To copy our experiments and carry out further exploration please first install t
 1) The MSD
 Installation is not trivial and requires some knowledge about aws services. For the most direct step by step guid follow the outline on: http://millionsongdataset.com/pages/getting-dataset/
 
-2) GTZAN: either download the orginal version from http://marsyas.info/downloads/datasets.html or download an already process version from kaggle: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification (preffered).
+2) GTZAN: either download the orginal version from http://marsyas.info/downloads/datasets.html or download an already process version from kaggle: https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification (preferred).
 
 ### Cover Song Classification
 To create a batch of covers and apply cover song classification on them, open
